@@ -1,0 +1,17 @@
+{
+    "Buy Parameters": {
+        "buy_max_shares": 100,
+        "buy_max_value": 100.0,
+        "buy_perc_delta": 5.0,
+        "buy_trade_comm": 0.0,
+        "buy_val_delta": 0.05
+    },
+    "Cash": 1000000.0,
+    "Sell Parameters": {
+        "sell_max_shares": 1000,
+        "sell_max_value": 1000.0,
+        "sell_perc_delta": 5.0,
+        "sell_trade_comm": 0.0,
+        "sell_val_delta": 0.05
+    }
+}
